@@ -1,0 +1,153 @@
+{  
+
+    "blockbuster":{
+       "peliculas":{
+         "peli1":{ 
+            "id" : "9088549445",
+            "Nombre" : "Terminator",
+            "duracion" : "1:30",
+            "sinopsis" : "!La rebelion de las maquinas¡",
+            "Generos" :{
+                "Genero" :{
+                    "ID" : "8976543241",
+                    "nombre" : "Acción"
+                }
+            },
+
+            "actores" : { 
+                "A01" : {
+                    "ID"  : "6795046443",
+                    "nombre" : "Arnol,t800",
+                    "rol" : "Protagonista"
+                },
+                "A02" : {   
+                    "ID"  : "6734822353",
+                    "nombre" : "Sara Conor",
+                    "rol" : "co-protagonista"
+                },
+                "A03" : {
+                    "ID" : "2322344353",
+                    "nombre" : "T800",
+                    "rol" : "Villano"
+                }
+
+            },
+            "formatos" :{
+                  "formato_1" : {
+                            "ID": "948393030",
+                            "nombre" : "CD",
+                            "C.copias": 6,
+                            "pago" : 3000
+                    },
+                    "formato_2" : {
+                        "ID": "948393030",
+                        "nombre" : "BlueRay",
+                        "C.copias": 4,
+                        "pago" : 6000
+
+                    }
+            }
+
+
+        },
+         "peli2" : {  
+           "ID" : "67544303334",
+           "Nombre" : "Spider_man",
+           "duracion" : "2:30",
+           "sinopsis" : "Las aventuras del increible hombre araña en la ciudad de new york",
+           "Generos" :{
+                "Genero" :{
+                    "ID" : "3485940545",
+                    "nombre" : "Epico"
+                }
+            },
+
+            "actores" : { 
+                "A01" : {
+                    "ID"  : "596050446",
+                    "nombre" : "Tobie maguare",
+                    "rol" : "Protagonista"
+                },
+                "A02" : {   
+                    "ID"  : "583839303",
+                    "nombre" : "Willian Defoe",
+                    "rol" : "Villano"
+                },
+                "A03" : {
+                    "ID" : "860504033",
+                    "nombre" : "Marie Jane",
+                    "rol" : "Reparto"
+                }
+
+            },
+            "formatos" : {
+                    "formato_1" : {
+                          "ID" : "23920302",
+                          "nombre" : "DVD",
+                          "C.copias" : 7,
+                          "pago" : 2000
+                    },
+                    "formato_2" : {
+                           "ID" : "434939334",
+                           "nombre" : "BlueRay",
+                           "C.copias" : 8,
+                           "Pago" : 4000
+                    }
+
+            },
+        "peli03" : { 
+         "ID" : "890354845",
+         "nombre" : "Logan",
+         "duraccion" : "2:00",
+         "sinopsis" : "Wolverie ahora convertido en logan en una dramatica aventura en busca de redimir su pasado",
+         "Generos" : {
+            "genero" :{
+                  "ID" : "344398593",
+                  "nombre" : "Drama"
+            }
+         },
+
+         "actores" : {
+            "A01" : {
+                "ID" : "345667676",
+                "nombre" : "logan",
+                "rol" : "Protagonista"
+            },
+            "A02" : {
+                "ID" : "4849393342",
+                "nombre" : "doc. javier",
+                "rol" : "Reparto" 
+            }
+
+
+
+
+
+        }
+
+
+    },
+    "formato" : {
+        "formato_1" : {
+                "id": "576849403",
+                "nombre" : "BlueRay",
+                "C.copias" : 7,
+                "pago" : 7000
+        },
+        "formato_2" : {
+                 "ID" : "092303004",
+                 "nombre" :  "cd",
+                 "C.copias" : 8,
+                 "pago" : 5000
+
+
+        }
+    }
+
+
+
+    }
+
+  }
+     } 
+}
